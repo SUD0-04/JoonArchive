@@ -1,5 +1,5 @@
 # JoonArchive 준-아카이브
-본 repo는 Python을 활용한 백준 문제 해결을 모아둔 곳입니다.
+본 repo는 Python 및 Java를 활용한 백준 문제 해결을 모아둔 곳입니다.
 
 __FEB - 02 - 26 / 언어별 폴더 분리__
 
