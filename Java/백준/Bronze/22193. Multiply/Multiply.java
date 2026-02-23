@@ -1,16 +1,17 @@
 import java.util.Scanner;
+import java.math.BigInteger;
 
 public class Main {
     public static void main (String[] args) {
         Scanner sc = new Scanner (System.in);
         
-        long N = sc.nextLong();
-        long M = sc.nextLong();
+        int N = sc.nextInt();
+        int M = sc.nextInt();
         
-        long A = sc.nextLong();
-        long B = sc.nextLong();
+        BigInteger A = sc.nextBigInteger();
+        BigInteger B = sc.nextBigInteger();
         
-        System.out.println(A * B);
+        System.out.println(A.multiply(B));
         
         sc.close();
     }
